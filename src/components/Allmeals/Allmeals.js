@@ -34,8 +34,8 @@ const [cart, setCart] = useState([]);
 </div>
 <div className="cart-container  ">
 <div className="cart-text">
-<p>Description</p>
- <p>Total: {cart.length}</p>
+<h5>Description</h5>
+ <h5>Total: {cart.length}</h5>
  
 </div>
 </div>
